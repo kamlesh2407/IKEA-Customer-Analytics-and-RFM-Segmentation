@@ -1,2 +1,3 @@
-# IKEA-Customer-Analytics
+# IKEA-Customer-Analytics-and-RFM-Segmentation
+
 This is an data analysis project, in this ikea's customer dataset is used to perform rfm analysis.
